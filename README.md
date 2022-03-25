@@ -1,6 +1,17 @@
 # Moises_Caso2
 Archivos del caso 2 del curso Analisis de Algoritmos
 
+IMPORTANTE: 
+----------------------------------------------------
+El archivo "DonQuijote.txt" es el archivo de mas de 10MB para la prueba del freetext,
+el archivo "worstCase.txt" es un archivo con los mismos caracteres para una pequeña 
+prueba del peor caso.
+
+También se adjunta el archivo "datos.xlsx" con unas tablas y gráficas de excel.
+
+Por último, hay un Makefile para los 3 .cpp, por lo que para ejecutar cada uno
+se debe correr el ejecutable por separado. 
+
 -----------------------------------------------------------------------
 QUICK_SORT PEOR DE LOS CASOS O(n^2)
 -----------------------------------------------------------------------
