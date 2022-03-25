@@ -66,23 +66,6 @@ void pruebaInsertionSort(int arr[], int lenght, int numero){
     cout << "\n\t->Tiempo de ejecucion: " << chrono::duration_cast<chrono::nanoseconds>(final - inicial).count() << " nanosegundos." << endl;
     cout << "\n\t->Tiempo de ejecucion: " << time << " segundos." << endl;
 
-    // ---------------
-    // swaps = iteracionesPartition = llamadasRecursivas = llamadasPartition = 0;
-
-    // cout << "\n-------------------------------------" << endl;
-    // cout << numero <<". Prueba Quick_Sort con pivot Random (" << lenght << " elementos)" << endl;
-    // t0 = clock();
-	// quickSortRandom(arr, 0 , lenght-1);
-    // t1 = clock();
-    // cout << "-------------------------------------" << endl;
-    // cout << "Informacion de contadores:" << endl;
-    // cout << "\t->Llamadas recursivas = " << llamadasRecursivas << endl;
-    // cout << "\t->Llamadas Partition = " << llamadasPartition << endl;
-    // cout << "\t->Iteraciones Partition = " << iteracionesPartition << endl;
-    // cout << "\t->Swaps = " << swaps << endl;
-
-    // time = (double(t1-t0)/CLOCKS_PER_SEC);
-    // cout << "\n\t->Execution Time: " << time << endl;
     cout << "___________________________________________________________________________________________________" << endl;
 
 }
