@@ -1223,6 +1223,21 @@ Informacion de contadores:
 
         ->Tiempo de ejecucion: 0.109 segundos.
 
+-----------------------------------------------------------------------
+PRUEBAS = ALGORITMO DE BUSQUEDA DE TEXTO LINEAL
+-----------------------------------------------------------------------
+
+->Tiempo de carga: 0.123
+
+El patron se encontro en la posicion: 30273
+El patron se encontro en la posicion: 2200309
+El patron se encontro en la posicion: 4370345
+El patron se encontro en la posicion: 6540381
+El patron se encontro en la posicion: 8710417
+
+        ->Tiempo de busqueda: 0.106 segundos.
+Cantidad de apariciones del patron (Felizmente) = 5
+
 
 -----------------------------------------------------------------------
 PRUEBAS = ALGORITMO DE BUSQUEDA DE TEXTO LINEAL, PEOR DE LOS CASOS
