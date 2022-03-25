@@ -192,5 +192,7 @@ int main()
    cout << "Contador itearaciones: " << contadorIteraciones << endl;
    cout << "N: " << texto.length() << "; M: " << patron.length() << endl;
    cout << "M + (N-M + 1) = " << contadorIteraciones << endl;
+
+   
 	return 0;
 }
