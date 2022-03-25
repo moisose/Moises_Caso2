@@ -338,6 +338,8 @@ int main(){
        -------------------------------------------------------------------------------------------------
        |       64 000  	       |    2 047 968 000       |             63 999               |   4.494   |
        -------------------------------------------------------------------------------------------------
+       Estas son unas pruebas que realicé pero no se muestran en el main porque lo acomodé con otros
+       ejemplos con cantidades diferentes. Lo importante es el comportamiento.
 
 
        También esta el comportamiento de la relacion entre el T(n) y el O(n). 
